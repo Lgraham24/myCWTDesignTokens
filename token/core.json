@@ -382,25 +382,28 @@
       "type": "fontWeights"
     }
   },
-  "XXS": {
-    "value": "2",
-    "type": "spacing"
-  },
-  "XS": {
-    "value": "4",
-    "type": "spacing"
-  },
-  "S": {
-    "value": "8",
-    "type": "spacing"
-  },
-  "M (Default)": {
-    "value": "16",
-    "type": "spacing"
-  },
-  "L": {
-    "value": "32",
-    "type": "spacing"
+  "spacing": {
+    "xs": {
+      "value": "{dimension.xs}",
+      "type": "spacing"
+    },
+    "sm": {
+      "value": "{dimension.sm}",
+      "type": "spacing"
+    },
+    "md": {
+      "value": "{dimension.md}",
+      "type": "spacing"
+    },
+    "lg": {
+      "value": "{dimension.lg}",
+      "type": "spacing"
+    },
+    "multi-value": {
+      "value": "{dimension.sm} {dimension.xl}",
+      "type": "spacing",
+      "description": "You can have multiple values in a single spacing token. Read more on these: https://docs.tokens.studio/available-tokens/spacing-tokens#multi-value-spacing-tokens"
+    }
   },
   "XL": {
     "value": "64",
@@ -417,6 +420,51 @@
         "type": "spacing",
         "description": "Hi there! SCALE is the base-scale of all size-related tokens (size, space, dimension). The default is 16(px), so it relates to 1rem = 16(px) for font-sizes. If you change it, it will change all size-related tokens."
       }
+    }
+  },
+  "dimension": {
+    "scale": {
+      "value": "2px",
+      "type": "dimension"
+    },
+    "xs": {
+      "value": "4px",
+      "type": "dimension"
+    },
+    "sm": {
+      "value": "{dimension.xs} * {dimension.scale}",
+      "type": "dimension"
+    },
+    "md": {
+      "value": "{dimension.sm} * {dimension.scale}",
+      "type": "dimension"
+    },
+    "lg": {
+      "value": "{dimension.md} * {dimension.scale}",
+      "type": "dimension"
+    },
+    "xl": {
+      "value": "{dimension.lg} * {dimension.scale}",
+      "type": "dimension"
+    }
+  },
+  "borderRadius": {
+    "sm": {
+      "value": "4",
+      "type": "borderRadius"
+    },
+    "lg": {
+      "value": "8",
+      "type": "borderRadius"
+    },
+    "xl": {
+      "value": "16",
+      "type": "borderRadius"
+    },
+    "multi-value": {
+      "value": "{borderRadius.sm} {borderRadius.lg}",
+      "type": "borderRadius",
+      "description": "You can have multiple values in a single radius token. Read more on these: https://docs.tokens.studio/available-tokens/border-radius-tokens#single--multiple-values"
     }
   }
 }
