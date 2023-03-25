@@ -3,9 +3,11 @@
     "id": "b17e9e2bfc633cefbe2ca1f60b3be8455cc06daf",
     "name": "myCWT Analytics",
     "selectedTokenSets": {
-      "core": "disabled",
       "colors": "enabled",
-      "Analytics/core": "enabled"
+      "Analytics/core": "enabled",
+      "device/web": "disabled",
+      "device/ios": "disabled",
+      "device/android": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -13,10 +15,11 @@
     "id": "3bc37cfdd98d18c2ec39413928656ba1b393e1fd",
     "name": "myCWT IOS",
     "selectedTokenSets": {
-      "ios": "enabled",
       "core": "enabled",
       "colors": "enabled",
-      "Analytics/core": "disabled"
+      "device/web": "disabled",
+      "device/ios": "enabled",
+      "device/android": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -24,10 +27,11 @@
     "id": "434e37649d28b24a6d5ff8ed95a3b29f91072e80",
     "name": "myCWT Web",
     "selectedTokenSets": {
-      "web": "enabled",
       "core": "enabled",
       "colors": "enabled",
-      "Analytics/core": "disabled"
+      "device/web": "enabled",
+      "device/ios": "disabled",
+      "device/android": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -35,10 +39,11 @@
     "id": "2275e1c981f4b4b54b0b7841ea7f3dfd66f84709",
     "name": "myCWT Android",
     "selectedTokenSets": {
-      "android": "enabled",
       "core": "enabled",
       "colors": "enabled",
-      "Analytics/core": "disabled"
+      "device/web": "disabled",
+      "device/ios": "disabled",
+      "device/android": "enabled"
     },
     "$figmaStyleReferences": {}
   }

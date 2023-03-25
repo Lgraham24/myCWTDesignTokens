@@ -3,8 +3,8 @@
     "core",
     "colors",
     "Analytics/core",
-    "web",
-    "ios",
-    "android"
+    "device/web",
+    "device/ios",
+    "device/android"
   ]
 }
