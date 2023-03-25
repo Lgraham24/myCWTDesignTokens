@@ -1,0 +1,31 @@
+[
+  {
+    "id": "434e37649d28b24a6d5ff8ed95a3b29f91072e80",
+    "name": "myCWT Theme",
+    "selectedTokenSets": {
+      "myCWT Colors": "enabled",
+      "Core": "enabled",
+      "web": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "80ce121d57addbfb0f8cc95f77a74d2883932780",
+    "name": "myCWT Theme Test",
+    "selectedTokenSets": {
+      "myCWT Colors": "enabled",
+      "Core_Test": "enabled",
+      "web": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "b17e9e2bfc633cefbe2ca1f60b3be8455cc06daf",
+    "name": "myCWT Analytics Theme",
+    "selectedTokenSets": {
+      "myCWT Colors": "enabled",
+      "Analytics Core": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]
