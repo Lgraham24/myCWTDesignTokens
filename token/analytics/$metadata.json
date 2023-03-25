@@ -1,0 +1,10 @@
+{
+  "tokenSetOrder": [
+    "Core",
+    "Colors",
+    "Analytics/Core",
+    "web",
+    "ios",
+    "android"
+  ]
+}
