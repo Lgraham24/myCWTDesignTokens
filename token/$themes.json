@@ -6,7 +6,7 @@
       "Core_Test": "enabled",
       "Web": "enabled",
       "Colors": "enabled",
-      "Analytics": "disabled"
+      "Analytics Core": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -15,7 +15,7 @@
     "name": "myCWT Analytics Theme",
     "selectedTokenSets": {
       "Colors": "enabled",
-      "Analytics": "enabled"
+      "Analytics Core": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -28,7 +28,7 @@
       "IOS": "enabled",
       "Android": "enabled",
       "Colors": "enabled",
-      "Analytics": "disabled"
+      "Analytics Core": "disabled"
     },
     "$figmaStyleReferences": {}
   }
