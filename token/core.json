@@ -405,14 +405,6 @@
       "description": "You can have multiple values in a single spacing token. Read more on these: https://docs.tokens.studio/available-tokens/spacing-tokens#multi-value-spacing-tokens"
     }
   },
-  "XL": {
-    "value": "64",
-    "type": "spacing"
-  },
-  "XXL": {
-    "value": "80",
-    "type": "spacing"
-  },
   "core": {
     "size": {
       "SCALE": {
