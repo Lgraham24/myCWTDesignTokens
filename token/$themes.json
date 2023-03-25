@@ -6,7 +6,7 @@
       "myCWT Colors": "enabled",
       "Core_Test": "enabled",
       "Web": "enabled",
-      "IOS": "disabled"
+      "Android": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -16,8 +16,7 @@
     "selectedTokenSets": {
       "myCWT Colors": "enabled",
       "Analytics Core": "enabled",
-      "Web": "disabled",
-      "IOS": "disabled"
+      "Android": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -28,7 +27,8 @@
       "myCWT Colors": "enabled",
       "Core": "enabled",
       "Web": "enabled",
-      "IOS": "enabled"
+      "IOS": "enabled",
+      "Android": "enabled"
     },
     "$figmaStyleReferences": {}
   }
