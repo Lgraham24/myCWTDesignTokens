@@ -5,8 +5,7 @@
     "selectedTokenSets": {
       "Core_Test": "enabled",
       "Web": "enabled",
-      "Colors": "enabled",
-      "Analytics Core": "disabled"
+      "Colors": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -27,8 +26,7 @@
       "Web": "enabled",
       "IOS": "enabled",
       "Android": "enabled",
-      "Colors": "enabled",
-      "Analytics Core": "disabled"
+      "Colors": "enabled"
     },
     "$figmaStyleReferences": {}
   }
