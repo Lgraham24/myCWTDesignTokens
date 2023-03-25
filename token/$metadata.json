@@ -5,6 +5,10 @@
     "Analytics/core",
     "device/web",
     "device/ios",
-    "device/android"
+    "device/android",
+    "analytics/$metadata",
+    "analytics/$themes",
+    "analytics/global",
+    "Analytics/MUI"
   ]
 }
