@@ -1,0 +1,21 @@
+{
+  "tokenSetOrder": [
+    "Core",
+    "Core_Test",
+    "myCWT Colors",
+    "Analytics Core",
+    "color/Analytics Core",
+    "color/Core",
+    "color/Core_Test",
+    "color/myCWT Colors",
+    "colors/$metadata",
+    "colors/$themes",
+    "colors/Analytics Core",
+    "colors/Core",
+    "colors/Core_Test",
+    "colors/myCWT Colors",
+    "web/$metadata",
+    "web/$themes",
+    "web/web"
+  ]
+}
