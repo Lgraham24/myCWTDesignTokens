@@ -334,7 +334,7 @@
     }
   },
   "Forms (F)": {
-    "F Label & Footnote": {
+    "F Label": {
       "value": {
         "fontFamily": "{fontFamilies.source-sans-pro}",
         "fontWeight": "{fontWeights.source-sans-pro-0}",
