@@ -6,9 +6,6 @@
     "device/web",
     "device/ios",
     "device/android",
-    "analytics/$metadata",
-    "analytics/$themes",
-    "analytics/global",
     "Analytics/MUI"
   ]
 }
