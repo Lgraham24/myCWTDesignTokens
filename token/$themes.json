@@ -1,11 +1,5 @@
 [
   {
-    "id": "3bc37cfdd98d18c2ec39413928656ba1b393e1fd",
-    "name": "myCWT IOS",
-    "selectedTokenSets": {},
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "b17e9e2bfc633cefbe2ca1f60b3be8455cc06daf",
     "name": "myCWT Analytics",
     "selectedTokenSets": {
@@ -15,10 +9,12 @@
     "$figmaStyleReferences": {}
   },
   {
-    "id": "2275e1c981f4b4b54b0b7841ea7f3dfd66f84709",
-    "name": "myCWT Android",
+    "id": "3bc37cfdd98d18c2ec39413928656ba1b393e1fd",
+    "name": "myCWT IOS",
     "selectedTokenSets": {
-      "android": "enabled"
+      "Core": "enabled",
+      "Colors": "enabled",
+      "ios": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -29,6 +25,16 @@
       "Core": "enabled",
       "Colors": "enabled",
       "web": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "2275e1c981f4b4b54b0b7841ea7f3dfd66f84709",
+    "name": "myCWT Android",
+    "selectedTokenSets": {
+      "android": "enabled",
+      "Core": "enabled",
+      "Colors": "enabled"
     },
     "$figmaStyleReferences": {}
   }
