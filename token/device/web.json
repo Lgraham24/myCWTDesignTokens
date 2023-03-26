@@ -153,6 +153,20 @@
         "textDecoration": "{textDecoration.none}"
       },
       "type": "typography"
+    },
+    "H1 Light": {
+      "value": {
+        "fontFamily": "{fontFamilies.source-sans-pro}",
+        "fontWeight": "{fontWeights.source-sans-pro-1}",
+        "lineHeight": "{lineHeights.0}",
+        "fontSize": "{fontSize.9}",
+        "letterSpacing": "{letterSpacing.1}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
     }
   },
   "Paragraph (P)­­­­­ ­": {
