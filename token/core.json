@@ -58,28 +58,28 @@
     }
   },
   "divider": {
-    "value": "#e7e9ea",
+    "value": "{charcoal-5}",
     "type": "color",
     "description": "gray-5"
   },
   "Text": {
     "txt-primary": {
-      "value": "#333f48",
+      "value": "{Neutrals.charcoal-100}",
       "type": "color",
       "description": "Primary Text"
     },
     "txt-secondary": {
-      "value": "#6f787e",
+      "value": "{Neutrals.charcoal-70}",
       "type": "color",
       "description": "Secondary Text, Placeholder Text"
     },
     "txt-white": {
-      "value": "#ffffff",
+      "value": "{Neutrals.white}",
       "type": "color",
       "description": "Primary Reversed Text"
     },
     "txt-disabled": {
-      "value": "#838a90",
+      "value": "{Neutrals.charcoal-50}",
       "type": "color",
       "description": "Disabled Text"
     },
