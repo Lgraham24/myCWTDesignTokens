@@ -90,17 +90,17 @@
         "description": "Info Text"
       },
       "txt-positive": {
-        "value": "{Status.positive}",
+        "value": "{green-100}",
         "type": "color",
         "description": "Positive Text"
       },
       "txt-caution": {
-        "value": "{Status.caution-darken}",
+        "value": "{yellow-100}",
         "type": "color",
         "description": "Caution Text"
       },
       "txt-critical": {
-        "value": "{Action.action-critical}",
+        "value": "{red-100}",
         "type": "color",
         "description": "Critical Text"
       }
@@ -108,16 +108,16 @@
   },
   "Background": {
     "bg-page": {
-      "value": "{color.charcoal-5}",
+      "value": "{charcoal-5}",
       "type": "color",
       "description": "gray-5"
     },
     "bg-content": {
-      "value": "#ffffff",
+      "value": "{white}",
       "type": "color"
     },
     "bg-content-reversed": {
-      "value": "#333f48",
+      "value": "{charcoal-100}",
       "type": "color"
     },
     "bg-modal-overlay": {
@@ -127,7 +127,7 @@
     },
     "bg-formfield": {
       "bg-formfield": {
-        "value": "{color.white}",
+        "value": "{white}",
         "type": "color"
       },
       "bg-formfield-disabled": {
@@ -135,7 +135,7 @@
         "type": "color"
       },
       "bg-formfield-hover": {
-        "value": "#efefef",
+        "value": "{charcoal-5}",
         "type": "color",
         "description": "gray-4, used in the dropdown menu as a hover state \n"
       }

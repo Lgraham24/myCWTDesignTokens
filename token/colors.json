@@ -3,6 +3,10 @@
     "value": "#ffffff",
     "type": "color"
   },
+  "charcoal-4": {
+    "value": "#f1f3f5",
+    "type": "color"
+  },
   "charcoal-5": {
     "value": "#e7e9ea",
     "type": "color",
@@ -89,7 +93,7 @@
     "type": "color"
   },
   "green-25": {
-    "value": "#E6F4DF",
+    "value": "#e6f4df",
     "type": "color"
   },
   "green-50": {
@@ -97,7 +101,7 @@
     "type": "color"
   },
   "green-100": {
-    "value": "#2B6411",
+    "value": "#2b6411",
     "type": "color"
   }
 }
