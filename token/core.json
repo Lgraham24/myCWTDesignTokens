@@ -131,42 +131,42 @@
         "type": "color"
       },
       "bg-formfield-disabled": {
-        "value": "#f1f3f5",
+        "value": "{charcoal-4}",
         "type": "color"
       },
       "bg-formfield-hover": {
         "value": "{charcoal-5}",
         "type": "color",
-        "description": "gray-4, used in the dropdown menu as a hover state \n"
+        "description": "used in the dropdown menu as a hover state \n"
       }
     },
     "bg-status": {
       "bg-info": {
-        "value": "#e2f3ff",
+        "value": "{blue-10}",
         "type": "color"
       },
       "bg-positive": {
-        "value": "#e6f4df",
+        "value": "{green-25}",
         "type": "color"
       },
       "bg-caution": {
-        "value": "#fce9bf",
+        "value": "{yellow-25}",
         "type": "color",
         "description": "caution-lighten\n"
       },
       "bg-critical": {
-        "value": "#f5c1cc",
+        "value": "{red-25}",
         "type": "color",
         "description": "error-lighten"
       }
     },
     "bg-decorative": {
       "bg-deco": {
-        "value": "#fff7f6",
+        "value": "{orange-10}",
         "type": "color"
       },
       "bg-deco-darken": {
-        "value": "#ffe9e5",
+        "value": "{orange-25}",
         "type": "color"
       }
     }
