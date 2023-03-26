@@ -58,49 +58,49 @@
     }
   },
   "divider": {
-    "value": "{charcoal-5}",
+    "value": "{color.charcoal-5}",
     "type": "color",
     "description": "gray-5"
   },
   "Text": {
     "txt-primary": {
-      "value": "{Neutrals.charcoal-100}",
+      "value": "{color.charcoal-100}",
       "type": "color",
       "description": "Primary Text"
     },
     "txt-secondary": {
-      "value": "{Neutrals.charcoal-70}",
+      "value": "{color.charcoal-70}",
       "type": "color",
       "description": "Secondary Text, Placeholder Text"
     },
     "txt-white": {
-      "value": "{Neutrals.white}",
+      "value": "{color.white}",
       "type": "color",
       "description": "Primary Reversed Text"
     },
     "txt-disabled": {
-      "value": "{Neutrals.charcoal-50}",
+      "value": "{color.charcoal-50}",
       "type": "color",
       "description": "Disabled Text"
     },
     "Status": {
       "txt-info": {
-        "value": "#0a3d80",
+        "value": "{Status.info-darken}",
         "type": "color",
         "description": "Info Text"
       },
       "txt-positive": {
-        "value": "#2b6411",
+        "value": "{Status.positive}",
         "type": "color",
         "description": "Positive Text"
       },
       "txt-caution": {
-        "value": "#966900",
+        "value": "{Status.caution-darken}",
         "type": "color",
         "description": "Caution Text"
       },
       "txt-critical": {
-        "value": "#aa092a",
+        "value": "{Action.action-critical}",
         "type": "color",
         "description": "Critical Text"
       }
@@ -108,7 +108,7 @@
   },
   "Background": {
     "bg-page": {
-      "value": "#e7e9ea",
+      "value": "{color.charcoal-5}",
       "type": "color",
       "description": "gray-5"
     },
@@ -127,7 +127,7 @@
     },
     "bg-formfield": {
       "bg-formfield": {
-        "value": "#ffffff",
+        "value": "{color.white}",
         "type": "color"
       },
       "bg-formfield-disabled": {
