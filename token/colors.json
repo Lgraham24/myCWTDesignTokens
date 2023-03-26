@@ -89,7 +89,7 @@
     "type": "color"
   },
   "green-25": {
-    "value": "#ffffff",
+    "value": "#E6F4DF",
     "type": "color"
   },
   "green-50": {
@@ -97,7 +97,7 @@
     "type": "color"
   },
   "green-100": {
-    "value": "#ffffff",
+    "value": "#2B6411",
     "type": "color"
   }
 }

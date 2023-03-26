@@ -58,34 +58,34 @@
     }
   },
   "divider": {
-    "value": "{color.charcoal-5}",
+    "value": "{charcoal-5}",
     "type": "color",
     "description": "gray-5"
   },
   "Text": {
     "txt-primary": {
-      "value": "{color.charcoal-100}",
+      "value": "{charcoal-100}",
       "type": "color",
       "description": "Primary Text"
     },
     "txt-secondary": {
-      "value": "{color.charcoal-70}",
+      "value": "{charcoal-70}",
       "type": "color",
       "description": "Secondary Text, Placeholder Text"
     },
     "txt-white": {
-      "value": "{color.white}",
+      "value": "{white}",
       "type": "color",
       "description": "Primary Reversed Text"
     },
     "txt-disabled": {
-      "value": "{color.charcoal-50}",
+      "value": "{charcoal-50}",
       "type": "color",
       "description": "Disabled Text"
     },
     "Status": {
       "txt-info": {
-        "value": "{Status.info-darken}",
+        "value": "{blue-100}",
         "type": "color",
         "description": "Info Text"
       },
