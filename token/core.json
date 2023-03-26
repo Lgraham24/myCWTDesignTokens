@@ -220,66 +220,66 @@
     },
     "Link": {
       "link": {
-        "value": "#1061cc",
+        "value": "{blue-50}",
         "type": "color"
       },
       "link-hover": {
-        "value": "#0a3d80",
+        "value": "{blue-100}",
         "type": "color"
       },
       "link-pressed": {
-        "value": "#0a3d80",
+        "value": "{blue-100}",
         "type": "color"
       },
       "link-visited": {
-        "value": "#0a3d80",
+        "value": "{blue-100}",
         "type": "color"
       }
     }
   },
   "Brand": {
     "primary": {
-      "value": "#ff694b",
+      "value": "{orange-50}",
       "type": "color",
       "description": "primary-100; Button, Note"
     },
     "secondary": {
-      "value": "#333f48",
+      "value": "{charcoal-100}",
       "type": "color",
       "description": "secondary-100; Charcoal is the secondary color"
     }
   },
   "Status": {
     "info": {
-      "value": "#0a3d80",
+      "value": "{blue-100}",
       "type": "color"
     },
     "info-darken": {
-      "value": "#0a3d80",
+      "value": "{blue-100}",
       "type": "color"
     },
     "positive": {
-      "value": "#2b6411",
+      "value": "{green-100}",
       "type": "color"
     },
     "positive-darken": {
-      "value": "#2b6411",
+      "value": "{green-100}",
       "type": "color"
     },
     "caution": {
-      "value": "#b57e00",
+      "value": "{yellow-100}",
       "type": "color"
     },
     "caution-darken": {
-      "value": "#b57e00",
+      "value": "{yellow-100}",
       "type": "color"
     },
     "critical": {
-      "value": "#aa092a",
+      "value": "{red-100}",
       "type": "color"
     },
     "critical-darken": {
-      "value": "#aa092a",
+      "value": "{red-100}",
       "type": "color"
     }
   },
