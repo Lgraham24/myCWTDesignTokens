@@ -188,34 +188,34 @@
       "description": "primary-darken-50"
     },
     "action-secondary": {
-      "value": "#333f48",
+      "value": "{charcoal-100}",
       "type": "color"
     },
     "action-secondary-hover": {
-      "value": "#222b32",
+      "value": "{charcoal-90}",
       "type": "color",
       "description": "Temp Color - Not part of core\n\n"
     },
     "action-secondary-pressed": {
-      "value": "#07090b",
+      "value": "{charcoal-100}",
       "type": "color",
       "description": "\n"
     },
     "action-critical": {
-      "value": "#aa092a",
+      "value": "{red-100}",
       "type": "color"
     },
     "action-disabled": {
-      "value": "#838a90",
+      "value": "{charcoal-50}",
       "type": "color"
     },
     "action-focused": {
-      "value": "#333f48",
+      "value": "{charcoal-100}",
       "type": "color",
       "description": "Was 1061CC (link blue). Now it is charcoal with an increased stroke width. \n"
     },
     "action-focused-reversed": {
-      "value": "#ffffff",
+      "value": "{white}",
       "type": "color"
     },
     "Link": {
