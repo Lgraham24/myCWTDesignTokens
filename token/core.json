@@ -173,17 +173,17 @@
   },
   "Action": {
     "action-primary": {
-      "value": "#d34529",
+      "value": "{orange-75}",
       "type": "color",
       "description": "Was FF694B. Changed to be accessible"
     },
     "action-primary-hover": {
-      "value": "#c83516",
+      "value": "{orange-100}",
       "type": "color",
-      "description": "Was primary-darken-25 and E65#43, changed to be the same as pressed to be accessible"
+      "description": "Was primary-darken-25 and E65#43, changed to be orange-100 the same as pressed to be accessible"
     },
     "action-primary-pressed": {
-      "value": "#c83516",
+      "value": "{orange-100}",
       "type": "color",
       "description": "primary-darken-50"
     },
