@@ -405,25 +405,25 @@
       "type": "spacing",
       "description": "x8"
     },
-    "xl": {
-      "value": "{dimension.xxs}*10",
-      "type": "spacing",
-      "description": "x10"
-    },
     "xxl": {
       "value": "{dimension.xxs}*12",
       "type": "spacing",
       "description": "x12"
     },
-    "multi-value": {
-      "value": "{dimension.sm} {dimension.xlg}",
+    "xl": {
+      "value": "{dimension.xxs}*10",
       "type": "spacing",
-      "description": "You can have multiple values in a single spacing token. Read more on these: https://docs.tokens.studio/available-tokens/spacing-tokens#multi-value-spacing-tokens"
+      "description": "x10"
     },
     "xxxl": {
       "value": "{dimension.xxs}*14",
       "type": "spacing",
       "description": "x14"
+    },
+    "multi-value": {
+      "value": "{dimension.sm} {dimension.xlg}",
+      "type": "spacing",
+      "description": "You can have multiple values in a single spacing token. Read more on these: https://docs.tokens.studio/available-tokens/spacing-tokens#multi-value-spacing-tokens"
     }
   },
   "core": {
@@ -464,6 +464,10 @@
       "value": "{dimension.xxs} * 6",
       "type": "dimension",
       "description": "x6"
+    },
+    "lg": {
+      "value": "{dimension.xxs}*8",
+      "type": "dimension"
     },
     "xlg": {
       "value": "{dimension.xxs} * 10",
