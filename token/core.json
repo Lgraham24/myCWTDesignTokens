@@ -396,9 +396,9 @@
       "description": "x4"
     },
     "med": {
-      "value": "{dimension.xxs}*4",
+      "value": "{dimension.xxs}*6",
       "type": "spacing",
-      "description": "x4"
+      "description": "x6"
     },
     "lg": {
       "value": "{dimension.xxs}*8",
