@@ -1,0 +1,11 @@
+{
+  "bot card": {
+    "value": {
+      "borderRadius": "{borderRadius.med}",
+      "verticalPadding": "16",
+      "horizontalPadding": "8",
+      "spacing": "8"
+    },
+    "type": "composition"
+  }
+}

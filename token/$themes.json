@@ -5,7 +5,8 @@
     "selectedTokenSets": {
       "core": "enabled",
       "colors": "enabled",
-      "device/ios": "enabled"
+      "device/ios": "enabled",
+      "comp/bot-card": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -15,7 +16,8 @@
     "selectedTokenSets": {
       "core": "enabled",
       "colors": "enabled",
-      "device/web": "enabled"
+      "device/web": "enabled",
+      "comp/bot-card": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -25,7 +27,8 @@
     "selectedTokenSets": {
       "core": "enabled",
       "colors": "enabled",
-      "device/android": "enabled"
+      "device/android": "enabled",
+      "comp/bot-card": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -35,7 +38,8 @@
     "selectedTokenSets": {
       "colors": "enabled",
       "Analytics/core": "enabled",
-      "Analytics/MUI": "enabled"
+      "Analytics/MUI": "enabled",
+      "comp/bot-card": "disabled"
     },
     "$figmaStyleReferences": {}
   }
