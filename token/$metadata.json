@@ -6,6 +6,7 @@
     "device/web",
     "device/ios",
     "device/android",
-    "Analytics/MUI"
+    "Analytics/MUI",
+    "comp/input-field"
   ]
 }

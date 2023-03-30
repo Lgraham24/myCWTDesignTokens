@@ -73,9 +73,9 @@
     "type": "color"
   },
   "red-25": {
-    "value": "#FBE8EC",
+    "value": "#F5C1CC",
     "type": "color",
-    "description": "Changing background Critical to be lighter - was #f5c1cc now #FBE8EC"
+    "description": "Changing background Critical to be lighter - was #f5c1cc now #F5C1CC"
   },
   "red-50": {
     "value": "#d70833",

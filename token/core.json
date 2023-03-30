@@ -375,53 +375,24 @@
     }
   },
   "spacing": {
-    "xxs": {
-      "value": "{dimension.xxs}",
-      "type": "spacing",
-      "description": "x1"
-    },
     "xs": {
-      "value": "{dimension.xxs}*2",
-      "type": "spacing",
-      "description": "x2"
+      "value": "{dimension.xs}",
+      "type": "spacing"
     },
     "sm": {
-      "value": "{dimension.xxs}*3",
-      "type": "spacing",
-      "description": "x3"
+      "value": "{dimension.sm}",
+      "type": "spacing"
     },
-    "standard": {
-      "value": "{dimension.xxs}*4",
-      "type": "spacing",
-      "description": "x4"
-    },
-    "med": {
-      "value": "{dimension.xxs}*6",
-      "type": "spacing",
-      "description": "x6"
+    "md": {
+      "value": "{dimension.md}",
+      "type": "spacing"
     },
     "lg": {
-      "value": "{dimension.xxs}*8",
-      "type": "spacing",
-      "description": "x8"
-    },
-    "xxl": {
-      "value": "{dimension.xxs}*12",
-      "type": "spacing",
-      "description": "x12"
-    },
-    "xl": {
-      "value": "{dimension.xxs}*10",
-      "type": "spacing",
-      "description": "x10"
-    },
-    "xxxl": {
-      "value": "{dimension.xxs}*14",
-      "type": "spacing",
-      "description": "x14"
+      "value": "{dimension.lg}",
+      "type": "spacing"
     },
     "multi-value": {
-      "value": "{dimension.sm} {dimension.xlg}",
+      "value": "{dimension.sm} {dimension.xl}",
       "type": "spacing",
       "description": "You can have multiple values in a single spacing token. Read more on these: https://docs.tokens.studio/available-tokens/spacing-tokens#multi-value-spacing-tokens"
     }
@@ -440,39 +411,25 @@
       "value": "2px",
       "type": "dimension"
     },
-    "xxs": {
-      "value": "4px",
-      "type": "dimension",
-      "description": "1x"
-    },
     "xs": {
-      "value": "{dimension.xxs}*2",
-      "type": "dimension",
-      "description": "x2"
-    },
-    "sm": {
-      "value": "{dimension.xxs} * 3",
-      "type": "dimension",
-      "description": "x3"
-    },
-    "standard": {
-      "value": "{dimension.xxs} * 4",
-      "type": "dimension",
-      "description": "x4"
-    },
-    "med": {
-      "value": "{dimension.xxs} * 6",
-      "type": "dimension",
-      "description": "x6"
-    },
-    "lg": {
-      "value": "{dimension.xxs}*8",
+      "value": "4px",
       "type": "dimension"
     },
-    "xlg": {
-      "value": "{dimension.xxs} * 10",
-      "type": "dimension",
-      "description": "x10"
+    "sm": {
+      "value": "{dimension.xs} * {dimension.scale}",
+      "type": "dimension"
+    },
+    "md": {
+      "value": "{dimension.sm} * {dimension.scale}",
+      "type": "dimension"
+    },
+    "lg": {
+      "value": "{dimension.md} * {dimension.scale}",
+      "type": "dimension"
+    },
+    "xl": {
+      "value": "{dimension.lg} * {dimension.scale}",
+      "type": "dimension"
     }
   },
   "borderRadius": {
