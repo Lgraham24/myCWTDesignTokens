@@ -171,28 +171,28 @@
         "description": "Primary Text"
       },
       "txt-secondary": {
-        "value": "#6f787e",
+        "value": "{color.charcoal-70}",
         "type": "color",
         "description": "Secondary Text, Placeholder Text"
       },
       "txt-white": {
-        "value": "#ffffff",
+        "value": "{color.white}",
         "type": "color",
         "description": "Primary Reversed Text"
       },
       "txt-disabled": {
-        "value": "#838a90",
+        "value": "{color.charcoal-50}",
         "type": "color",
         "description": "Disabled Text"
       },
       "status": {
         "txt-info": {
-          "value": "#0a3d80",
+          "value": "{color.blue-100}",
           "type": "color",
           "description": "Info Text"
         },
         "txt-positive": {
-          "value": "#2b6411",
+          "value": "{color.green-100}",
           "type": "color",
           "description": "Positive Text"
         },
@@ -202,7 +202,7 @@
           "description": "Caution Text"
         },
         "txt-critical": {
-          "value": "#aa092a",
+          "value": "{color.red-100}",
           "type": "color",
           "description": "Critical Text"
         }
@@ -210,16 +210,16 @@
     },
     "background": {
       "bg-page": {
-        "value": "#e7e9ea",
+        "value": "{color.charcoal-5}",
         "type": "color",
         "description": "gray-5"
       },
       "bg-content": {
-        "value": "#ffffff",
+        "value": "{color.white}",
         "type": "color"
       },
       "bg-content-reversed": {
-        "value": "#333f48",
+        "value": "{color.charcoal-100}",
         "type": "color"
       },
       "bg-modal-overlay": {
@@ -229,143 +229,143 @@
       },
       "bg-formfield": {
         "bg-formfield": {
-          "value": "#ffffff",
+          "value": "{color.white}",
           "type": "color"
         },
         "bg-formfield-hover": {
-          "value": "#e7e9ea",
+          "value": "{color.charcoal-5}",
           "type": "color",
           "description": "used in the dropdown menu as a hover state \n"
         },
         "bg-formfield-disabled": {
-          "value": "#f1f3f5",
+          "value": "{color.charcoal-4}",
           "type": "color"
         }
       },
       "bg-status": {
         "bg-info": {
-          "value": "#e2f3ff",
+          "value": "{color.blue-10}",
           "type": "color"
         },
         "bg-positive": {
-          "value": "#e6f4df",
+          "value": "{color.green-25}",
           "type": "color"
         },
         "bg-caution": {
-          "value": "#fce9bf",
+          "value": "{color.yellow-25}",
           "type": "color",
           "description": "caution-lighten\n"
         },
         "bg-critical": {
-          "value": "#f5c1cc",
+          "value": "{color.red-25}",
           "type": "color",
           "description": "error-lighten"
         }
       },
       "bg-decorative": {
         "bg-deco": {
-          "value": "#fff7f6",
+          "value": "{color.orange-10}",
           "type": "color"
         },
         "bg-deco-darken": {
-          "value": "#ffe9e5",
+          "value": "{color.orange-25}",
           "type": "color"
         }
       }
     },
     "action": {
       "action-primary": {
-        "value": "#d34529",
+        "value": "{color.orange-75}",
         "type": "color",
         "description": "Was FF694B. Changed to be accessible"
       },
       "action-primary-hover": {
-        "value": "#c83516",
+        "value": "{color.orange-100}",
         "type": "color",
         "description": "Was primary-darken-25 and E65#43, changed to be orange-100 the same as pressed to be accessible"
       },
       "action-primary-pressed": {
-        "value": "#c83516",
+        "value": "{color.orange-100}",
         "type": "color",
         "description": "primary-darken-50"
       },
       "action-secondary": {
-        "value": "#333f48",
+        "value": "{color.charcoal-100}",
         "type": "color"
       },
       "action-secondary-hover": {
-        "value": "#3b4852",
+        "value": "{color.charcoal-100}",
         "type": "color",
         "description": "Temp Color - Not part of core\n\n"
       },
       "action-secondary-pressed": {
-        "value": "#333f48",
+        "value": "{color.charcoal-100}",
         "type": "color",
         "description": "\n"
       },
       "action-focused": {
-        "value": "#333f48",
+        "value": "{color.charcoal-100}",
         "type": "color",
         "description": "Was 1061CC (link blue). Now it is charcoal with an increased stroke width. \n"
       },
       "action-focused-reversed": {
-        "value": "#ffffff",
+        "value": "{color.white}",
         "type": "color"
       },
       "action-critical": {
-        "value": "#aa092a",
+        "value": "{color.red-100}",
         "type": "color"
       },
       "action-disabled": {
-        "value": "#838a90",
+        "value": "{color.charcoal-50}",
         "type": "color"
       },
       "link": {
         "link": {
-          "value": "#1061cc",
+          "value": "{color.blue-50}",
           "type": "color"
         },
         "link-hover": {
-          "value": "#0a3d80",
+          "value": "{color.blue-100}",
           "type": "color"
         },
         "link-pressed": {
-          "value": "#0a3d80",
+          "value": "{color.blue-100}",
           "type": "color"
         },
         "link-visited": {
-          "value": "#0a3d80",
+          "value": "{color.blue-100}",
           "type": "color"
         }
       }
     },
     "brand": {
       "primary": {
-        "value": "#ff694b",
+        "value": "{color.orange-50}",
         "type": "color",
         "description": "primary-100; Button, Note"
       },
       "secondary": {
-        "value": "#333f48",
+        "value": "{color.charcoal-100}",
         "type": "color",
         "description": "secondary-100; Charcoal is the secondary color"
       }
     },
     "status": {
       "info": {
-        "value": "#0a3d80",
+        "value": "{color.blue-100}",
         "type": "color"
       },
       "positive": {
-        "value": "#2b6411",
+        "value": "{color.green-100}",
         "type": "color"
       },
       "caution": {
-        "value": "#b57e00",
+        "value": "{color.yellow-100}",
         "type": "color"
       },
       "critical": {
-        "value": "#aa092a",
+        "value": "{color.red-100}",
         "type": "color"
       }
     }
