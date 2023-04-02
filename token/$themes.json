@@ -4,8 +4,8 @@
     "name": "myCWT IOS",
     "selectedTokenSets": {
       "device/ios": "enabled",
-      "myCWT Core": "enabled",
-      "myCWT_global": "enabled"
+      "myCWT_global": "enabled",
+      "myCWT_core": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -14,8 +14,8 @@
     "name": "myCWT Web",
     "selectedTokenSets": {
       "device/web": "enabled",
-      "myCWT Core": "enabled",
-      "myCWT_global": "enabled"
+      "myCWT_global": "enabled",
+      "myCWT_core": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -24,8 +24,8 @@
     "name": "myCWT Android",
     "selectedTokenSets": {
       "device/android": "enabled",
-      "myCWT Core": "enabled",
-      "myCWT_global": "enabled"
+      "myCWT_global": "enabled",
+      "myCWT_core": "enabled"
     },
     "$figmaStyleReferences": {}
   },
