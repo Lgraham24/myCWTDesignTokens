@@ -1,112 +1,114 @@
 {
-  "white": {
-    "value": "#ffffff",
-    "type": "color"
-  },
-  "charcoal-4": {
-    "value": "#f1f3f5",
-    "type": "color"
-  },
-  "charcoal-5": {
-    "value": "#e7e9ea",
-    "type": "color",
-    "description": "charcoal-5"
-  },
-  "charcoal-10": {
-    "value": "#d3d6d8",
-    "type": "color"
-  },
-  "charcoal-20": {
-    "value": "#bfc3c3",
-    "type": "color"
-  },
-  "charcoal-50": {
-    "value": "#838a90",
-    "type": "color"
-  },
-  "charcoal-70": {
-    "value": "#6f787e",
-    "type": "color"
-  },
-  "charcoal-90": {
-    "value": "#3b4852",
-    "type": "color"
-  },
-  "charcoal-100": {
-    "value": "#333f48",
-    "type": "color"
-  },
-  "orange-10": {
-    "value": "#fff7f6",
-    "type": "color"
-  },
-  "orange-25": {
-    "value": "#ffe9e5",
-    "type": "color"
-  },
-  "orange-50": {
-    "value": "#ff694b",
-    "type": "color"
-  },
-  "orange-75": {
-    "value": "#d34529",
-    "type": "color"
-  },
-  "orange-100": {
-    "value": "#c83516",
-    "type": "color"
-  },
-  "blue-10": {
-    "value": "#e2f3ff",
-    "type": "color"
-  },
-  "blue-25": {
-    "value": "#15a1ff",
-    "type": "color"
-  },
-  "blue-50": {
-    "value": "#1061cc",
-    "type": "color"
-  },
-  "blue-100": {
-    "value": "#0a3d80",
-    "type": "color"
-  },
-  "red-25": {
-    "value": "#F5C1CC",
-    "type": "color",
-    "description": "Changing background Critical to be lighter - was #f5c1cc now #F5C1CC"
-  },
-  "red-50": {
-    "value": "#d70833",
-    "type": "color"
-  },
-  "red-100": {
-    "value": "#aa092a",
-    "type": "color"
-  },
-  "yellow-25": {
-    "value": "#fce9bf",
-    "type": "color"
-  },
-  "yellow-50": {
-    "value": "#f2a900",
-    "type": "color"
-  },
-  "yellow-100": {
-    "value": "#b57e00",
-    "type": "color"
-  },
-  "green-25": {
-    "value": "#e6f4df",
-    "type": "color"
-  },
-  "green-50": {
-    "value": "#36aa00",
-    "type": "color"
-  },
-  "green-100": {
-    "value": "#2b6411",
-    "type": "color"
+  "color": {
+    "white": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "charcoal-4": {
+      "value": "#f1f3f5",
+      "type": "color"
+    },
+    "charcoal-5": {
+      "value": "#e7e9ea",
+      "type": "color",
+      "description": "charcoal-5"
+    },
+    "charcoal-10": {
+      "value": "#d3d6d8",
+      "type": "color"
+    },
+    "charcoal-20": {
+      "value": "#bfc3c3",
+      "type": "color"
+    },
+    "charcoal-50": {
+      "value": "#838a90",
+      "type": "color"
+    },
+    "charcoal-70": {
+      "value": "#6f787e",
+      "type": "color"
+    },
+    "charcoal-90": {
+      "value": "#3b4852",
+      "type": "color"
+    },
+    "charcoal-100": {
+      "value": "#333f48",
+      "type": "color"
+    },
+    "orange-10": {
+      "value": "#fff7f6",
+      "type": "color"
+    },
+    "orange-25": {
+      "value": "#ffe9e5",
+      "type": "color"
+    },
+    "orange-50": {
+      "value": "#ff694b",
+      "type": "color"
+    },
+    "orange-75": {
+      "value": "#d34529",
+      "type": "color"
+    },
+    "orange-100": {
+      "value": "#c83516",
+      "type": "color"
+    },
+    "blue-10": {
+      "value": "#e2f3ff",
+      "type": "color"
+    },
+    "blue-25": {
+      "value": "#15a1ff",
+      "type": "color"
+    },
+    "blue-50": {
+      "value": "#1061cc",
+      "type": "color"
+    },
+    "blue-100": {
+      "value": "#0a3d80",
+      "type": "color"
+    },
+    "red-25": {
+      "value": "#F5C1CC",
+      "type": "color",
+      "description": "Changing background Critical to be lighter - was #f5c1cc now #F5C1CC"
+    },
+    "red-50": {
+      "value": "#d70833",
+      "type": "color"
+    },
+    "red-100": {
+      "value": "#aa092a",
+      "type": "color"
+    },
+    "yellow-25": {
+      "value": "#fce9bf",
+      "type": "color"
+    },
+    "yellow-50": {
+      "value": "#f2a900",
+      "type": "color"
+    },
+    "yellow-100": {
+      "value": "#b57e00",
+      "type": "color"
+    },
+    "green-25": {
+      "value": "#e6f4df",
+      "type": "color"
+    },
+    "green-50": {
+      "value": "#36aa00",
+      "type": "color"
+    },
+    "green-100": {
+      "value": "#2b6411",
+      "type": "color"
+    }
   }
 }

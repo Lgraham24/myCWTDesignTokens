@@ -58,49 +58,49 @@
     }
   },
   "divider": {
-    "value": "{charcoal-5}",
+    "value": "{color.charcoal-5}",
     "type": "color",
     "description": "gray-5"
   },
   "Text": {
     "txt-primary": {
-      "value": "{charcoal-100}",
+      "value": "{color.charcoal-100}",
       "type": "color",
       "description": "Primary Text"
     },
     "txt-secondary": {
-      "value": "{charcoal-70}",
+      "value": "{color.charcoal-70}",
       "type": "color",
       "description": "Secondary Text, Placeholder Text"
     },
     "txt-white": {
-      "value": "{white}",
+      "value": "{color.white}",
       "type": "color",
       "description": "Primary Reversed Text"
     },
     "txt-disabled": {
-      "value": "{charcoal-50}",
+      "value": "{color.charcoal-50}",
       "type": "color",
       "description": "Disabled Text"
     },
     "Status": {
       "txt-info": {
-        "value": "{blue-100}",
+        "value": "{color.blue-100}",
         "type": "color",
         "description": "Info Text"
       },
       "txt-positive": {
-        "value": "{green-100}",
+        "value": "{color.green-100}",
         "type": "color",
         "description": "Positive Text"
       },
       "txt-caution": {
-        "value": "{yellow-100}",
+        "value": "{color.yellow-100}",
         "type": "color",
         "description": "Caution Text"
       },
       "txt-critical": {
-        "value": "{red-100}",
+        "value": "{color.red-100}",
         "type": "color",
         "description": "Critical Text"
       }
@@ -108,16 +108,16 @@
   },
   "Background": {
     "bg-page": {
-      "value": "{charcoal-5}",
+      "value": "{color.charcoal-5}",
       "type": "color",
       "description": "gray-5"
     },
     "bg-content": {
-      "value": "{white}",
+      "value": "{color.white}",
       "type": "color"
     },
     "bg-content-reversed": {
-      "value": "{charcoal-100}",
+      "value": "{color.charcoal-100}",
       "type": "color"
     },
     "bg-modal-overlay": {
@@ -127,159 +127,159 @@
     },
     "bg-formfield": {
       "bg-formfield": {
-        "value": "{white}",
+        "value": "{color.white}",
         "type": "color"
       },
       "bg-formfield-disabled": {
-        "value": "{charcoal-4}",
+        "value": "{color.charcoal-4}",
         "type": "color"
       },
       "bg-formfield-hover": {
-        "value": "{charcoal-5}",
+        "value": "{color.charcoal-5}",
         "type": "color",
         "description": "used in the dropdown menu as a hover state \n"
       }
     },
     "bg-status": {
       "bg-info": {
-        "value": "{blue-10}",
+        "value": "{color.blue-10}",
         "type": "color"
       },
       "bg-positive": {
-        "value": "{green-25}",
+        "value": "{color.green-25}",
         "type": "color"
       },
       "bg-caution": {
-        "value": "{yellow-25}",
+        "value": "{color.yellow-25}",
         "type": "color",
         "description": "caution-lighten\n"
       },
       "bg-critical": {
-        "value": "{red-25}",
+        "value": "{color.red-25}",
         "type": "color",
         "description": "error-lighten"
       }
     },
     "bg-decorative": {
       "bg-deco": {
-        "value": "{orange-10}",
+        "value": "{color.orange-10}",
         "type": "color"
       },
       "bg-deco-darken": {
-        "value": "{orange-25}",
+        "value": "{color.orange-25}",
         "type": "color"
       }
     }
   },
   "Action": {
     "action-primary": {
-      "value": "{orange-75}",
+      "value": "{color.orange-75}",
       "type": "color",
       "description": "Was FF694B. Changed to be accessible"
     },
     "action-primary-hover": {
-      "value": "{orange-100}",
+      "value": "{color.orange-100}",
       "type": "color",
       "description": "Was primary-darken-25 and E65#43, changed to be orange-100 the same as pressed to be accessible"
     },
     "action-primary-pressed": {
-      "value": "{orange-100}",
+      "value": "{color.orange-100}",
       "type": "color",
       "description": "primary-darken-50"
     },
     "action-secondary": {
-      "value": "{charcoal-100}",
+      "value": "{color.charcoal-100}",
       "type": "color"
     },
     "action-secondary-hover": {
-      "value": "{charcoal-90}",
+      "value": "{color.charcoal-90}",
       "type": "color",
       "description": "Temp Color - Not part of core\n\n"
     },
     "action-secondary-pressed": {
-      "value": "{charcoal-100}",
+      "value": "{color.charcoal-100}",
       "type": "color",
       "description": "\n"
     },
     "action-critical": {
-      "value": "{red-100}",
+      "value": "{color.red-100}",
       "type": "color"
     },
     "action-disabled": {
-      "value": "{charcoal-50}",
+      "value": "{color.charcoal-50}",
       "type": "color"
     },
     "action-focused": {
-      "value": "{charcoal-100}",
+      "value": "{color.charcoal-100}",
       "type": "color",
       "description": "Was 1061CC (link blue). Now it is charcoal with an increased stroke width. \n"
     },
     "action-focused-reversed": {
-      "value": "{white}",
+      "value": "{color.white}",
       "type": "color"
     },
     "Link": {
       "link": {
-        "value": "{blue-50}",
+        "value": "{color.blue-50}",
         "type": "color"
       },
       "link-hover": {
-        "value": "{blue-100}",
+        "value": "{color.blue-100}",
         "type": "color"
       },
       "link-pressed": {
-        "value": "{blue-100}",
+        "value": "{color.blue-100}",
         "type": "color"
       },
       "link-visited": {
-        "value": "{blue-100}",
+        "value": "{color.blue-100}",
         "type": "color"
       }
     }
   },
   "Brand": {
     "primary": {
-      "value": "{orange-50}",
+      "value": "{color.orange-50}",
       "type": "color",
       "description": "primary-100; Button, Note"
     },
     "secondary": {
-      "value": "{charcoal-100}",
+      "value": "{color.charcoal-100}",
       "type": "color",
       "description": "secondary-100; Charcoal is the secondary color"
     }
   },
   "Status": {
     "info": {
-      "value": "{blue-100}",
+      "value": "{color.blue-100}",
       "type": "color"
     },
     "info-darken": {
-      "value": "{blue-100}",
+      "value": "{color.blue-100}",
       "type": "color"
     },
     "positive": {
-      "value": "{green-100}",
+      "value": "{color.green-100}",
       "type": "color"
     },
     "positive-darken": {
-      "value": "{green-100}",
+      "value": "{color.green-100}",
       "type": "color"
     },
     "caution": {
-      "value": "{yellow-100}",
+      "value": "{color.yellow-100}",
       "type": "color"
     },
     "caution-darken": {
-      "value": "{yellow-100}",
+      "value": "{color.yellow-100}",
       "type": "color"
     },
     "critical": {
-      "value": "{red-100}",
+      "value": "{color.red-100}",
       "type": "color"
     },
     "critical-darken": {
-      "value": "{red-100}",
+      "value": "{color.red-100}",
       "type": "color"
     }
   },
