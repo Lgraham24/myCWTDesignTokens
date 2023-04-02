@@ -160,7 +160,7 @@
   },
   "color-semantic": {
     "divider": {
-      "value": "#e7e9ea",
+      "value": "{color.charcoal-5}",
       "type": "color",
       "description": "gray-5"
     },
