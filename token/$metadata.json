@@ -1,7 +1,7 @@
 {
   "tokenSetOrder": [
     "myCWT Core",
-    "myCWT _global",
+    "myCWT_global",
     "Analytics/core",
     "device/web",
     "device/ios",
