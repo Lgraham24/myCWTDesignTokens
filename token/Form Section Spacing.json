@@ -1,0 +1,21 @@
+{
+  "checkout_right_section": {
+    "value": {
+      "verticalPadding": "16",
+      "itemSpacing": "16"
+    },
+    "type": "composition"
+  },
+  "item spacing 8": {
+    "value": {
+      "itemSpacing": "8"
+    },
+    "type": "composition"
+  },
+  "Vertical Spacing 4 px": {
+    "value": {
+      "verticalPadding": "4"
+    },
+    "type": "composition"
+  }
+}

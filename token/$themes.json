@@ -5,7 +5,8 @@
     "selectedTokenSets": {
       "device/ios": "enabled",
       "myCWT_global": "enabled",
-      "myCWT_core": "enabled"
+      "myCWT_core": "enabled",
+      "Form Section Spacing": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -15,7 +16,8 @@
     "selectedTokenSets": {
       "device/web": "enabled",
       "myCWT_global": "enabled",
-      "myCWT_core": "enabled"
+      "myCWT_core": "enabled",
+      "Form Section Spacing": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -25,7 +27,8 @@
     "selectedTokenSets": {
       "device/android": "enabled",
       "myCWT_global": "enabled",
-      "myCWT_core": "enabled"
+      "myCWT_core": "enabled",
+      "Form Section Spacing": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -35,7 +38,8 @@
     "selectedTokenSets": {
       "Analytics/core": "enabled",
       "Analytics/MUI": "enabled",
-      "myCWT_global": "enabled"
+      "myCWT_global": "enabled",
+      "Form Section Spacing": "disabled"
     },
     "$figmaStyleReferences": {}
   }

@@ -8,6 +8,7 @@
     "device/android",
     "Analytics/MUI",
     "comp/input-field",
-    "comp/bot-card"
+    "comp/bot-card",
+    "Form Section Spacing"
   ]
 }
