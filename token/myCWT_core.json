@@ -275,9 +275,9 @@
     },
     "action": {
       "action-primary": {
-        "value": "{color.orange-75}",
+        "value": "{color-semantic.brand.primary}",
         "type": "color",
-        "description": "Was FF694B. Changed to be accessible"
+        "description": "Was FF694B. Changed to be accessible. Changeed back to brand ff694b based on product feedback May 11, 2023."
       },
       "action-primary-hover": {
         "value": "{color.orange-100}",
