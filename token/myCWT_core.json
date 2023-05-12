@@ -84,7 +84,8 @@
     },
     "sm": {
       "value": "{dimension.sm}",
-      "type": "spacing"
+      "type": "spacing",
+      "description": "8px"
     },
     "md": {
       "value": "{dimension.md}",
@@ -98,6 +99,18 @@
       "value": "{dimension.sm} {dimension.xl}",
       "type": "spacing",
       "description": "You can have multiple values in a single spacing token. Read more on these: https://docs.tokens.studio/available-tokens/spacing-tokens#multi-value-spacing-tokens"
+    },
+    "xxs": {
+      "value": "4",
+      "type": "spacing"
+    },
+    "xl": {
+      "value": "{dimension.xl}",
+      "type": "spacing"
+    },
+    "xxl": {
+      "value": "{dimension.xxl}",
+      "type": "spacing"
     }
   },
   "core": {
@@ -115,23 +128,31 @@
       "type": "dimension"
     },
     "xs": {
-      "value": "4px",
+      "value": "8px",
       "type": "dimension"
     },
     "sm": {
-      "value": "{dimension.xs} * {dimension.scale}",
+      "value": "12px",
       "type": "dimension"
     },
     "md": {
-      "value": "{dimension.sm} * {dimension.scale}",
+      "value": "16px",
       "type": "dimension"
     },
     "lg": {
-      "value": "{dimension.md} * {dimension.scale}",
+      "value": "24px",
       "type": "dimension"
     },
     "xl": {
-      "value": "{dimension.lg} * {dimension.scale}",
+      "value": "32px",
+      "type": "dimension"
+    },
+    "xxs": {
+      "value": "4px",
+      "type": "dimension"
+    },
+    "xxl": {
+      "value": "40px",
       "type": "dimension"
     }
   },
