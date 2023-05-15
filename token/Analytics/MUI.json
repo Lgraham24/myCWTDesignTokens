@@ -1,41 +1,41 @@
 {
   "divider": {
-    "value": "#e7e9ea",
+    "value": "{color-semantic.divider}",
     "type": "color",
-    "description": "gray-5"
+    "description": "gray-5. {color-semantic.divider}"
   },
   "text": {
     "primary": {
-      "value": "#333f48",
+      "value": "{color-semantic.text.txt-primary}",
       "type": "color",
-      "description": "Reflects the text.primary variable from the theme object"
+      "description": "Reflects the text.primary variable from the theme object. {color-semantic.text.txt-primary} Charcoal-100"
     },
     "secondary": {
-      "value": "#333f48",
+      "value": "{color-semantic.text.txt-secondary}",
       "type": "color",
-      "description": "Reflects the text.secondary variable from the theme object"
+      "description": "Reflects the text.secondary variable from the theme object. {color-semantic.text.txt-secondary} #6f787e"
     },
     "disabled": {
-      "value": "#838a90",
+      "value": "{color-semantic.text.txt-disabled}",
       "type": "color",
-      "description": "Reflects the text.disabled variable from the theme object"
+      "description": "Reflects the text.disabled variable from the theme object. {color-semantic.text.txt-disabled}#838a90"
     }
   },
   "primary": {
     "main": {
-      "value": "#1061cc",
+      "value": "{color-semantic.brand.primary}",
       "type": "color",
-      "description": "Reflects the primary.main variable from the theme object"
+      "description": "Reflects the primary.main variable from the theme object. {color-semantic.brand.primary} #838a90"
     },
     "dark": {
-      "value": "#0a3d80",
+      "value": "{color.orange-100}",
       "type": "color",
-      "description": "Used for hover states. Reflects the primary.dark variable from the theme object"
+      "description": "Used for hover states. Reflects the primary.dark variable from the theme object. {color.orange-100}"
     },
     "light": {
-      "value": "#15a1ff",
+      "value": "{color.orange-10}",
       "type": "color",
-      "description": "Reflects the primary.light variable from the theme object"
+      "description": "Reflects the primary.light variable from the theme object. {color.orange-10}"
     },
     "contrast": {
       "value": "#ffffff",
@@ -44,47 +44,47 @@
     },
     "states": {
       "hover": {
-        "value": "#0a3d80",
+        "value": "{color-semantic.action.action-primary-hover}",
         "type": "color",
-        "description": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token."
+        "description": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.{color-semantic.action.action-primary-hover}"
       },
       "selected": {
-        "value": "#1061cc",
+        "value": "{color-semantic.action.action-primary-pressed}",
         "type": "color",
-        "description": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token."
+        "description": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.{color-semantic.action.action-primary-pressed}"
       },
       "focus": {
-        "value": "#1061cc",
+        "value": "{color-semantic.action.action-primary-pressed}",
         "type": "color",
-        "description": "Used for focus states. The token represents the value of action.focusOpacity (0.12 by default) of the main token."
+        "description": "Used for focus states. The token represents the value of action.focusOpacity (0.12 by default) of the main token. {color-semantic.action.action-primary-pressed}"
       },
       "focusVisible": {
-        "value": "#1061cc",
+        "value": "{color-semantic.action.action-primary-pressed}",
         "type": "color",
-        "description": "Used for focus visible states. The token represents the value of focusVisibleOpacity (0.3 by default) of the main token."
+        "description": "Used for focus visible states. The token represents the value of focusVisibleOpacity (0.3 by default) of the main token. {color-semantic.action.action-primary-pressed}"
       },
       "outlinedBorder": {
-        "value": "#1061cc",
+        "value": "{color-semantic.action.action-primary}",
         "type": "color",
-        "description": "Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token."
+        "description": "Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token. {color-semantic.action.action-primary}"
       }
     }
   },
   "secondary": {
     "main": {
-      "value": "#efefef",
+      "value": "{color-semantic.action.action-secondary}",
       "type": "color",
       "description": "Reflects the secondary.main variable from the theme object"
     },
     "dark": {
-      "value": "#d3d6d8",
+      "value": "{color-semantic.action.action-secondary-pressed}",
       "type": "color",
-      "description": "Used for hover states. Reflects the secondary.dark variable from the theme object"
+      "description": "Used for hover states. Reflects the secondary.dark variable from the theme object {color-semantic.action.action-secondary-pressed}"
     },
     "light": {
-      "value": "#efefef",
+      "value": "{color.charcoal-10}",
       "type": "color",
-      "description": "Reflects the secondary.light variable from the theme object"
+      "description": "Reflects the secondary.light variable from the theme object {color.charcoal-10}"
     },
     "contrast": {
       "value": "#ffffff",
@@ -93,29 +93,33 @@
     },
     "states": {
       "hover": {
-        "value": "#efefef0a",
+        "value": "{color-semantic.action.action-secondary-hover}",
         "type": "color",
         "description": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token."
       },
       "selected": {
-        "value": "#d3d6d814",
+        "value": "{color-semantic.action.action-secondary-pressed}",
         "type": "color",
         "description": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token."
       },
-      "focus": {
-        "value": "#d3d6d81f",
-        "type": "color",
-        "description": "Used for focus visible states. The token represents 12% of the Secondary/Main token"
-      },
       "focusVisibile": {
-        "value": "#d3d6d84d",
+        "value": "{color-semantic.action.action-secondary-pressed}",
         "type": "color",
         "description": "Used for focus visible states. The token represents 30% of the Secondary/Main token"
       },
       "outlinedBorder": {
-        "value": "#d3d6d880",
+        "value": "{color-semantic.action.action-secondary}",
         "type": "color",
         "description": "Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token."
+      }
+    }
+  },
+  "{color-semantic": {
+    "action": {
+      "action-secondary-pressed}": {
+        "value": "#d3d6d81f",
+        "type": "color",
+        "description": "Used for focus visible states. The token represents 12% of the Secondary/Main token"
       }
     }
   },
@@ -153,17 +157,17 @@
   },
   "error": {
     "main": {
-      "value": "#d70833",
+      "value": "{color-semantic.status.critical}",
       "type": "color",
       "description": "Reflects the error.main variable from the theme object"
     },
     "dark": {
-      "value": "#aa092a",
+      "value": "{color-semantic.status.critical}",
       "type": "color",
       "description": "Used for hover states. Reflects the error.dark variable from the theme object"
     },
     "light": {
-      "value": "#d70833",
+      "value": "#e83244",
       "type": "color",
       "description": "Reflects the error.light variable from the theme object"
     },
@@ -197,17 +201,17 @@
   },
   "warning": {
     "main": {
-      "value": "#f2a900",
+      "value": "{color-semantic.status.caution}",
       "type": "color",
       "description": "Reflects the warning.main variable from the theme object"
     },
     "dark": {
-      "value": "#e65100",
+      "value": "{color-semantic.status.caution}",
       "type": "color",
       "description": "Used for hover states. Reflects the warning.dark variable from the theme object"
     },
     "light": {
-      "value": "#ff9800",
+      "value": "#ffd21c",
       "type": "color",
       "description": "Reflects the warning.light variable from the theme object"
     },
@@ -241,17 +245,17 @@
   },
   "info": {
     "main": {
-      "value": "#1061cc",
+      "value": "{color-semantic.status.info}",
       "type": "color",
       "description": "Reflects the info.main variable from the theme object"
     },
     "dark": {
-      "value": "#1061cc",
+      "value": "{color-semantic.status.info}",
       "type": "color",
       "description": "Used for hover states. Reflects the info.dark variable from the theme object"
     },
     "light": {
-      "value": "#15a1ff",
+      "value": "{color.blue-25}",
       "type": "color",
       "description": "Reflects the info.light variable from the theme object"
     },
@@ -285,17 +289,17 @@
   },
   "success": {
     "main": {
-      "value": "#36aa00",
+      "value": "{color-semantic.status.positive}",
       "type": "color",
       "description": "Reflects the success.main variable from the theme object"
     },
     "dark": {
-      "value": "#3a801a",
+      "value": "{color-semantic.status.positive}",
       "type": "color",
       "description": "Used for hover states. Reflects the success.dark variable from the theme object"
     },
     "light": {
-      "value": "#4caf50",
+      "value": "{color.green-50}",
       "type": "color",
       "description": "Reflects the success.light variable from the theme object"
     },
@@ -464,11 +468,11 @@
     },
     "textPrimary": {
       "main": {
-        "value": "#333f48de",
+        "value": "{color-semantic.text.txt-primary}",
         "type": "color"
       },
       "hover": {
-        "value": "#333f480a",
+        "value": "{color-semantic.action.action-focused}",
         "type": "color",
         "description": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token."
       },
@@ -491,42 +495,42 @@
   },
   "alert": {
     "errorContent": {
-      "value": "#aa092a",
+      "value": "{color-semantic.action.action-critical}",
       "type": "color",
       "description": "Used for Alert content. The token represents 60% #000 on top of the Error/Main token"
     },
     "errorFill": {
-      "value": "#f5c1cc",
+      "value": "{color-semantic.background.bg-status.bg-critical}",
       "type": "color",
       "description": "Used for Alert background. The token represents 90% #FFF on top of the Error/Main token"
     },
     "warningContent": {
-      "value": "#5f2b01",
+      "value": "{color-semantic.text.status.txt-caution}",
       "type": "color",
       "description": "Used for Alert content. The token represents 60% #000 on top of the Warning/Main token"
     },
     "warningFill": {
-      "value": "#fce9bf",
+      "value": "{color-semantic.background.bg-status.bg-caution}",
       "type": "color",
       "description": "Used for Alert background. The token represents 90% #FFF on top of the Warning/Main token"
     },
     "infoContent": {
-      "value": "#0a3d80",
+      "value": "{color-semantic.text.status.txt-info}",
       "type": "color",
       "description": "Used for Alert content. The token represents 60% #000 on top of the Info/Main token"
     },
     "infoFill": {
-      "value": "#e2f3ff",
+      "value": "{color-semantic.background.bg-status.bg-info}",
       "type": "color",
       "description": "Used for Alert background. The token represents 90% #FFF on top of the Info/Main token"
     },
     "successContent": {
-      "value": "#3a801a",
+      "value": "{color-semantic.text.status.txt-positive}",
       "type": "color",
       "description": "Used for Alert content. The token represents 60% #000 on top of the Success/Main token"
     },
     "successFill": {
-      "value": "#e6f4df",
+      "value": "{color-semantic.background.bg-status.bg-positive}",
       "type": "color",
       "description": "Used for Alert background. The token represents 90% #FFF on top of the Success/Main token"
     }
@@ -1651,12 +1655,12 @@
     "1": {
       "value": [
         {
-          "color": "#00000033",
+          "color": "#0000001f",
           "type": "dropShadow",
           "x": "0",
-          "y": "2",
-          "blur": "1",
-          "spread": "-1"
+          "y": "1",
+          "blur": "3",
+          "spread": "0"
         },
         {
           "color": "#00000024",
@@ -1667,12 +1671,12 @@
           "spread": "0"
         },
         {
-          "color": "#0000001f",
+          "color": "#00000033",
           "type": "dropShadow",
           "x": "0",
-          "y": "1",
-          "blur": "3",
-          "spread": "0"
+          "y": "2",
+          "blur": "1",
+          "spread": "-1"
         }
       ],
       "type": "boxShadow"
@@ -1680,12 +1684,12 @@
     "2": {
       "value": [
         {
-          "color": "#00000033",
+          "color": "#0000001f",
           "type": "dropShadow",
           "x": "0",
-          "y": "3",
-          "blur": "1",
-          "spread": "-2"
+          "y": "1",
+          "blur": "5",
+          "spread": "0"
         },
         {
           "color": "#00000024",
@@ -1696,12 +1700,12 @@
           "spread": "0"
         },
         {
-          "color": "#0000001f",
+          "color": "#00000033",
           "type": "dropShadow",
           "x": "0",
-          "y": "1",
-          "blur": "5",
-          "spread": "0"
+          "y": "3",
+          "blur": "1",
+          "spread": "-2"
         }
       ],
       "type": "boxShadow"
@@ -1709,12 +1713,12 @@
     "3": {
       "value": [
         {
-          "color": "#00000033",
+          "color": "#0000001f",
           "type": "dropShadow",
           "x": "0",
-          "y": "3",
-          "blur": "3",
-          "spread": "-2"
+          "y": "1",
+          "blur": "8",
+          "spread": "0"
         },
         {
           "color": "#00000024",
@@ -1725,12 +1729,12 @@
           "spread": "0"
         },
         {
-          "color": "#0000001f",
+          "color": "#00000033",
           "type": "dropShadow",
           "x": "0",
-          "y": "1",
-          "blur": "8",
-          "spread": "0"
+          "y": "3",
+          "blur": "3",
+          "spread": "-2"
         }
       ],
       "type": "boxShadow"
@@ -1738,12 +1742,12 @@
     "4": {
       "value": [
         {
-          "color": "#00000033",
+          "color": "#0000001f",
           "type": "dropShadow",
           "x": "0",
-          "y": "2",
-          "blur": "4",
-          "spread": "-1"
+          "y": "1",
+          "blur": "10",
+          "spread": "0"
         },
         {
           "color": "#00000024",
@@ -1754,12 +1758,12 @@
           "spread": "0"
         },
         {
-          "color": "#0000001f",
+          "color": "#00000033",
           "type": "dropShadow",
           "x": "0",
-          "y": "1",
-          "blur": "10",
-          "spread": "0"
+          "y": "2",
+          "blur": "4",
+          "spread": "-1"
         }
       ],
       "type": "boxShadow"
@@ -1767,12 +1771,12 @@
     "5": {
       "value": [
         {
-          "color": "#00000033",
+          "color": "#0000001f",
           "type": "dropShadow",
           "x": "0",
-          "y": "3",
-          "blur": "5",
-          "spread": "-1"
+          "y": "1",
+          "blur": "14",
+          "spread": "0"
         },
         {
           "color": "#00000024",
@@ -1783,12 +1787,12 @@
           "spread": "0"
         },
         {
-          "color": "#0000001f",
+          "color": "#00000033",
           "type": "dropShadow",
           "x": "0",
-          "y": "1",
-          "blur": "14",
-          "spread": "0"
+          "y": "3",
+          "blur": "5",
+          "spread": "-1"
         }
       ],
       "type": "boxShadow"
@@ -1796,12 +1800,12 @@
     "6": {
       "value": [
         {
-          "color": "#00000033",
+          "color": "#0000001f",
           "type": "dropShadow",
           "x": "0",
-          "y": "3",
-          "blur": "5",
-          "spread": "-1"
+          "y": "1",
+          "blur": "18",
+          "spread": "0"
         },
         {
           "color": "#00000024",
@@ -1812,12 +1816,12 @@
           "spread": "0"
         },
         {
-          "color": "#0000001f",
+          "color": "#00000033",
           "type": "dropShadow",
           "x": "0",
-          "y": "1",
-          "blur": "18",
-          "spread": "0"
+          "y": "3",
+          "blur": "5",
+          "spread": "-1"
         }
       ],
       "type": "boxShadow"
@@ -1825,12 +1829,12 @@
     "7": {
       "value": [
         {
-          "color": "#00000033",
+          "color": "#0000001f",
           "type": "dropShadow",
           "x": "0",
-          "y": "4",
-          "blur": "5",
-          "spread": "-2"
+          "y": "2",
+          "blur": "16",
+          "spread": "1"
         },
         {
           "color": "#00000024",
@@ -1841,12 +1845,12 @@
           "spread": "1"
         },
         {
-          "color": "#0000001f",
+          "color": "#00000033",
           "type": "dropShadow",
           "x": "0",
-          "y": "2",
-          "blur": "16",
-          "spread": "1"
+          "y": "4",
+          "blur": "5",
+          "spread": "-2"
         }
       ],
       "type": "boxShadow"
@@ -1854,12 +1858,12 @@
     "8": {
       "value": [
         {
-          "color": "#00000033",
+          "color": "#0000001f",
           "type": "dropShadow",
           "x": "0",
-          "y": "5",
-          "blur": "5",
-          "spread": "-3"
+          "y": "3",
+          "blur": "14",
+          "spread": "2"
         },
         {
           "color": "#00000024",
@@ -1870,12 +1874,12 @@
           "spread": "1"
         },
         {
-          "color": "#0000001f",
+          "color": "#00000033",
           "type": "dropShadow",
           "x": "0",
-          "y": "3",
-          "blur": "14",
-          "spread": "2"
+          "y": "5",
+          "blur": "5",
+          "spread": "-3"
         }
       ],
       "type": "boxShadow"
@@ -1883,12 +1887,12 @@
     "9": {
       "value": [
         {
-          "color": "#00000033",
+          "color": "#0000001f",
           "type": "dropShadow",
           "x": "0",
-          "y": "5",
-          "blur": "6",
-          "spread": "-3"
+          "y": "3",
+          "blur": "16",
+          "spread": "2"
         },
         {
           "color": "#00000024",
@@ -1899,12 +1903,12 @@
           "spread": "1"
         },
         {
-          "color": "#0000001f",
+          "color": "#00000033",
           "type": "dropShadow",
           "x": "0",
-          "y": "3",
-          "blur": "16",
-          "spread": "2"
+          "y": "5",
+          "blur": "6",
+          "spread": "-3"
         }
       ],
       "type": "boxShadow"
@@ -1912,12 +1916,12 @@
     "10": {
       "value": [
         {
-          "color": "#00000033",
+          "color": "#0000001f",
           "type": "dropShadow",
           "x": "0",
-          "y": "6",
-          "blur": "6",
-          "spread": "-3"
+          "y": "4",
+          "blur": "18",
+          "spread": "3"
         },
         {
           "color": "#00000024",
@@ -1928,12 +1932,12 @@
           "spread": "1"
         },
         {
-          "color": "#0000001f",
+          "color": "#00000033",
           "type": "dropShadow",
           "x": "0",
-          "y": "4",
-          "blur": "18",
-          "spread": "3"
+          "y": "6",
+          "blur": "6",
+          "spread": "-3"
         }
       ],
       "type": "boxShadow"
@@ -1941,12 +1945,12 @@
     "11": {
       "value": [
         {
-          "color": "#00000033",
+          "color": "#0000001f",
           "type": "dropShadow",
           "x": "0",
-          "y": "6",
-          "blur": "7",
-          "spread": "-4"
+          "y": "4",
+          "blur": "20",
+          "spread": "3"
         },
         {
           "color": "#00000024",
@@ -1957,12 +1961,12 @@
           "spread": "1"
         },
         {
-          "color": "#0000001f",
+          "color": "#00000033",
           "type": "dropShadow",
           "x": "0",
-          "y": "4",
-          "blur": "20",
-          "spread": "3"
+          "y": "6",
+          "blur": "7",
+          "spread": "-4"
         }
       ],
       "type": "boxShadow"
@@ -1970,12 +1974,12 @@
     "12": {
       "value": [
         {
-          "color": "#00000033",
+          "color": "#0000001f",
           "type": "dropShadow",
           "x": "0",
-          "y": "7",
-          "blur": "8",
-          "spread": "-4"
+          "y": "5",
+          "blur": "22",
+          "spread": "4"
         },
         {
           "color": "#00000024",
@@ -1986,12 +1990,12 @@
           "spread": "2"
         },
         {
-          "color": "#0000001f",
+          "color": "#00000033",
           "type": "dropShadow",
           "x": "0",
-          "y": "5",
-          "blur": "22",
-          "spread": "4"
+          "y": "7",
+          "blur": "8",
+          "spread": "-4"
         }
       ],
       "type": "boxShadow"
@@ -1999,12 +2003,12 @@
     "13": {
       "value": [
         {
-          "color": "#00000033",
+          "color": "#0000001f",
           "type": "dropShadow",
           "x": "0",
-          "y": "7",
-          "blur": "8",
-          "spread": "-4"
+          "y": "5",
+          "blur": "24",
+          "spread": "4"
         },
         {
           "color": "#00000024",
@@ -2015,12 +2019,12 @@
           "spread": "2"
         },
         {
-          "color": "#0000001f",
+          "color": "#00000033",
           "type": "dropShadow",
           "x": "0",
-          "y": "5",
-          "blur": "24",
-          "spread": "4"
+          "y": "7",
+          "blur": "8",
+          "spread": "-4"
         }
       ],
       "type": "boxShadow"
@@ -2028,12 +2032,12 @@
     "14": {
       "value": [
         {
-          "color": "#00000033",
+          "color": "#0000001f",
           "type": "dropShadow",
           "x": "0",
-          "y": "7",
-          "blur": "9",
-          "spread": "-4"
+          "y": "5",
+          "blur": "26",
+          "spread": "4"
         },
         {
           "color": "#00000024",
@@ -2044,12 +2048,12 @@
           "spread": "2"
         },
         {
-          "color": "#0000001f",
+          "color": "#00000033",
           "type": "dropShadow",
           "x": "0",
-          "y": "5",
-          "blur": "26",
-          "spread": "4"
+          "y": "7",
+          "blur": "9",
+          "spread": "-4"
         }
       ],
       "type": "boxShadow"
@@ -2057,12 +2061,12 @@
     "15": {
       "value": [
         {
-          "color": "#00000033",
+          "color": "#0000001f",
           "type": "dropShadow",
           "x": "0",
-          "y": "8",
-          "blur": "9",
-          "spread": "-5"
+          "y": "6",
+          "blur": "28",
+          "spread": "5"
         },
         {
           "color": "#00000024",
@@ -2073,12 +2077,12 @@
           "spread": "2"
         },
         {
-          "color": "#0000001f",
+          "color": "#00000033",
           "type": "dropShadow",
           "x": "0",
-          "y": "6",
-          "blur": "28",
-          "spread": "5"
+          "y": "8",
+          "blur": "9",
+          "spread": "-5"
         }
       ],
       "type": "boxShadow"
@@ -2086,12 +2090,12 @@
     "16": {
       "value": [
         {
-          "color": "#00000033",
+          "color": "#0000001f",
           "type": "dropShadow",
           "x": "0",
-          "y": "8",
-          "blur": "10",
-          "spread": "-5"
+          "y": "6",
+          "blur": "30",
+          "spread": "5"
         },
         {
           "color": "#00000024",
@@ -2102,12 +2106,12 @@
           "spread": "2"
         },
         {
-          "color": "#0000001f",
+          "color": "#00000033",
           "type": "dropShadow",
           "x": "0",
-          "y": "6",
-          "blur": "30",
-          "spread": "5"
+          "y": "8",
+          "blur": "10",
+          "spread": "-5"
         }
       ],
       "type": "boxShadow"
@@ -2115,12 +2119,12 @@
     "17": {
       "value": [
         {
-          "color": "#00000033",
+          "color": "#0000001f",
           "type": "dropShadow",
           "x": "0",
-          "y": "8",
-          "blur": "11",
-          "spread": "-5"
+          "y": "6",
+          "blur": "32",
+          "spread": "5"
         },
         {
           "color": "#00000024",
@@ -2131,12 +2135,12 @@
           "spread": "2"
         },
         {
-          "color": "#0000001f",
+          "color": "#00000033",
           "type": "dropShadow",
           "x": "0",
-          "y": "6",
-          "blur": "32",
-          "spread": "5"
+          "y": "8",
+          "blur": "11",
+          "spread": "-5"
         }
       ],
       "type": "boxShadow"
@@ -2144,12 +2148,12 @@
     "18": {
       "value": [
         {
-          "color": "#00000033",
+          "color": "#0000001f",
           "type": "dropShadow",
           "x": "0",
-          "y": "9",
-          "blur": "11",
-          "spread": "-5"
+          "y": "7",
+          "blur": "34",
+          "spread": "6"
         },
         {
           "color": "#00000024",
@@ -2160,12 +2164,12 @@
           "spread": "2"
         },
         {
-          "color": "#0000001f",
+          "color": "#00000033",
           "type": "dropShadow",
           "x": "0",
-          "y": "7",
-          "blur": "34",
-          "spread": "6"
+          "y": "9",
+          "blur": "11",
+          "spread": "-5"
         }
       ],
       "type": "boxShadow"
@@ -2173,12 +2177,12 @@
     "19": {
       "value": [
         {
-          "color": "#00000033",
+          "color": "#0000001f",
           "type": "dropShadow",
           "x": "0",
-          "y": "9",
-          "blur": "12",
-          "spread": "-6"
+          "y": "7",
+          "blur": "36",
+          "spread": "6"
         },
         {
           "color": "#00000024",
@@ -2189,12 +2193,12 @@
           "spread": "2"
         },
         {
-          "color": "#0000001f",
+          "color": "#00000033",
           "type": "dropShadow",
           "x": "0",
-          "y": "7",
-          "blur": "36",
-          "spread": "6"
+          "y": "9",
+          "blur": "12",
+          "spread": "-6"
         }
       ],
       "type": "boxShadow"
@@ -2202,12 +2206,12 @@
     "20": {
       "value": [
         {
-          "color": "#00000033",
+          "color": "#0000001f",
           "type": "dropShadow",
           "x": "0",
-          "y": "10",
-          "blur": "13",
-          "spread": "-6"
+          "y": "8",
+          "blur": "38",
+          "spread": "7"
         },
         {
           "color": "#00000024",
@@ -2218,12 +2222,12 @@
           "spread": "3"
         },
         {
-          "color": "#0000001f",
+          "color": "#00000033",
           "type": "dropShadow",
           "x": "0",
-          "y": "8",
-          "blur": "38",
-          "spread": "7"
+          "y": "10",
+          "blur": "13",
+          "spread": "-6"
         }
       ],
       "type": "boxShadow"
@@ -2231,12 +2235,12 @@
     "21": {
       "value": [
         {
-          "color": "#00000033",
+          "color": "#0000001f",
           "type": "dropShadow",
           "x": "0",
-          "y": "10",
-          "blur": "13",
-          "spread": "-6"
+          "y": "8",
+          "blur": "40",
+          "spread": "7"
         },
         {
           "color": "#00000024",
@@ -2247,12 +2251,12 @@
           "spread": "3"
         },
         {
-          "color": "#0000001f",
+          "color": "#00000033",
           "type": "dropShadow",
           "x": "0",
-          "y": "8",
-          "blur": "40",
-          "spread": "7"
+          "y": "10",
+          "blur": "13",
+          "spread": "-6"
         }
       ],
       "type": "boxShadow"
@@ -2260,12 +2264,12 @@
     "22": {
       "value": [
         {
-          "color": "#00000033",
+          "color": "#0000001f",
           "type": "dropShadow",
           "x": "0",
-          "y": "10",
-          "blur": "14",
-          "spread": "-6"
+          "y": "8",
+          "blur": "42",
+          "spread": "7"
         },
         {
           "color": "#00000024",
@@ -2276,12 +2280,12 @@
           "spread": "3"
         },
         {
-          "color": "#0000001f",
+          "color": "#00000033",
           "type": "dropShadow",
           "x": "0",
-          "y": "8",
-          "blur": "42",
-          "spread": "7"
+          "y": "10",
+          "blur": "14",
+          "spread": "-6"
         }
       ],
       "type": "boxShadow"
@@ -2289,12 +2293,12 @@
     "23": {
       "value": [
         {
-          "color": "#00000033",
+          "color": "#0000001f",
           "type": "dropShadow",
           "x": "0",
-          "y": "11",
-          "blur": "14",
-          "spread": "-7"
+          "y": "9",
+          "blur": "44",
+          "spread": "8"
         },
         {
           "color": "#00000024",
@@ -2305,12 +2309,12 @@
           "spread": "3"
         },
         {
-          "color": "#0000001f",
+          "color": "#00000033",
           "type": "dropShadow",
           "x": "0",
-          "y": "9",
-          "blur": "44",
-          "spread": "8"
+          "y": "11",
+          "blur": "14",
+          "spread": "-7"
         }
       ],
       "type": "boxShadow"
@@ -2318,12 +2322,12 @@
     "24": {
       "value": [
         {
-          "color": "#00000033",
+          "color": "#0000001f",
           "type": "dropShadow",
           "x": "0",
-          "y": "11",
-          "blur": "15",
-          "spread": "-7"
+          "y": "9",
+          "blur": "46",
+          "spread": "8"
         },
         {
           "color": "#00000024",
@@ -2334,12 +2338,12 @@
           "spread": "3"
         },
         {
-          "color": "#0000001f",
+          "color": "#00000033",
           "type": "dropShadow",
           "x": "0",
-          "y": "9",
-          "blur": "46",
-          "spread": "8"
+          "y": "11",
+          "blur": "15",
+          "spread": "-7"
         }
       ],
       "type": "boxShadow"
