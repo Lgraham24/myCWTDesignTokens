@@ -2452,6 +2452,10 @@
     "source-sans-pro-1": {
       "value": "Regular",
       "type": "fontWeights"
+    },
+    "source-sans-pro-2": {
+      "value": "bold",
+      "type": "fontWeights"
     }
   },
   "fontSize": {
