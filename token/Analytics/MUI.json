@@ -2454,7 +2454,7 @@
       "type": "fontWeights"
     },
     "source-sans-pro-2": {
-      "value": "bold",
+      "value": "Bold",
       "type": "fontWeights"
     }
   },
@@ -2794,7 +2794,7 @@
     "button-large": {
       "value": {
         "fontFamily": "{fontFamilies.source-sans-pro}",
-        "fontWeight": "{fontWeights.source-sans-pro-1}",
+        "fontWeight": "{fontWeights.source-sans-pro-2}",
         "lineHeight": "{lineHeights.12}",
         "fontSize": "{fontSize.4}",
         "letterSpacing": "{letterSpacing.10}",
