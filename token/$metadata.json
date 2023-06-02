@@ -3,10 +3,10 @@
     "myCWT_core",
     "myCWT_global",
     "Analytics/core",
+    "Analytics/MUI",
     "device/web",
     "device/ios",
     "device/android",
-    "Analytics/MUI",
     "comp/input-field",
     "comp/bot-card",
     "Form Section Spacing"
