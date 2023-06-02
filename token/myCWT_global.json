@@ -57,6 +57,14 @@
       "value": "#c83516",
       "type": "color"
     },
+    "accessible-orange-75": {
+      "value": "#FC6040",
+      "type": "color"
+    },
+    "accessible-orange-100": {
+      "value": "#E65E43",
+      "type": "color"
+    },
     "blue-10": {
       "value": "#e2f3ff",
       "type": "color"
@@ -74,7 +82,7 @@
       "type": "color"
     },
     "red-25": {
-      "value": "#FFE9E8",
+      "value": "#ffe9e8",
       "type": "color",
       "description": "Changing background Critical to be lighter - was #f5c1cc now #F5C1CC"
     },
