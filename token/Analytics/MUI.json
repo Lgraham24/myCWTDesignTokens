@@ -28,12 +28,12 @@
       "description": "Reflects the primary.main variable from the theme object. {color-semantic.brand.primary} #838a90"
     },
     "dark": {
-      "value": "{color.orange-100}",
+      "value": "{Global.orange-100}",
       "type": "color",
       "description": "Used for hover states. Reflects the primary.dark variable from the theme object. {color.orange-100}"
     },
     "light": {
-      "value": "{color.orange-10}",
+      "value": "{Global.orange-10}",
       "type": "color",
       "description": "Reflects the primary.light variable from the theme object. {color.orange-10}"
     },
@@ -82,7 +82,7 @@
       "description": "Used for hover states. Reflects the secondary.dark variable from the theme object {color-semantic.action.action-secondary-pressed}"
     },
     "light": {
-      "value": "{color.charcoal-10}",
+      "value": "{Global.charcoal-10}",
       "type": "color",
       "description": "Reflects the secondary.light variable from the theme object {color.charcoal-10}"
     },
@@ -255,7 +255,7 @@
       "description": "Used for hover states. Reflects the info.dark variable from the theme object"
     },
     "light": {
-      "value": "{color.blue-25}",
+      "value": "{Global.blue-25}",
       "type": "color",
       "description": "Reflects the info.light variable from the theme object"
     },
@@ -299,7 +299,7 @@
       "description": "Used for hover states. Reflects the success.dark variable from the theme object"
     },
     "light": {
-      "value": "{color.green-50}",
+      "value": "{Global.green-50}",
       "type": "color",
       "description": "Reflects the success.light variable from the theme object"
     },

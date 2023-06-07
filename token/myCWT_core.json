@@ -181,39 +181,39 @@
   },
   "color-semantic": {
     "divider": {
-      "value": "{color.charcoal-5}",
+      "value": "{Global.charcoal-5}",
       "type": "color",
       "description": "gray-5"
     },
     "text": {
       "txt-primary": {
-        "value": "{color.charcoal-100}",
+        "value": "{Global.charcoal-100}",
         "type": "color",
         "description": "Primary Text"
       },
       "txt-secondary": {
-        "value": "{color.charcoal-70}",
+        "value": "{Global.charcoal-70}",
         "type": "color",
         "description": "Secondary Text, Placeholder Text"
       },
       "txt-white": {
-        "value": "{color.white}",
+        "value": "{Global.white}",
         "type": "color",
         "description": "Primary Reversed Text"
       },
       "txt-disabled": {
-        "value": "{color.charcoal-50}",
+        "value": "{Global.charcoal-50}",
         "type": "color",
         "description": "Disabled Text"
       },
       "status": {
         "txt-info": {
-          "value": "{color.blue-100}",
+          "value": "{Global.blue-100}",
           "type": "color",
           "description": "Info Text"
         },
         "txt-positive": {
-          "value": "{color.green-100}",
+          "value": "{Global.green-100}",
           "type": "color",
           "description": "Positive Text"
         },
@@ -223,7 +223,7 @@
           "description": "Caution Text"
         },
         "txt-critical": {
-          "value": "{color.red-100}",
+          "value": "{Global.red-100}",
           "type": "color",
           "description": "Critical Text"
         }
@@ -231,16 +231,16 @@
     },
     "background": {
       "bg-page": {
-        "value": "{color.charcoal-5}",
+        "value": "{Global.charcoal-5}",
         "type": "color",
         "description": "gray-5"
       },
       "bg-content": {
-        "value": "{color.white}",
+        "value": "{Global.white}",
         "type": "color"
       },
       "bg-content-reversed": {
-        "value": "{color.charcoal-100}",
+        "value": "{Global.charcoal-100}",
         "type": "color"
       },
       "bg-modal-overlay": {
@@ -250,57 +250,57 @@
       },
       "bg-formfield": {
         "bg-formfield": {
-          "value": "{color.white}",
+          "value": "{Global.white}",
           "type": "color"
         },
         "bg-formfield-hover": {
-          "value": "{color.charcoal-5}",
+          "value": "{Global.charcoal-5}",
           "type": "color",
           "description": "used in the dropdown menu as a hover state \n"
         },
         "bg-formfield-disabled": {
-          "value": "{color.charcoal-4}",
+          "value": "{Global.charcoal-4}",
           "type": "color"
         }
       },
       "bg-status": {
         "bg-info": {
-          "value": "{color.blue-10}",
+          "value": "{Global.blue-10}",
           "type": "color"
         },
         "bg-positive": {
-          "value": "{color.green-25}",
+          "value": "{Global.green-25}",
           "type": "color"
         },
         "bg-caution": {
-          "value": "{color.yellow-25}",
+          "value": "{Global.yellow-25}",
           "type": "color",
           "description": "caution-lighten\n"
         },
         "bg-critical": {
-          "value": "{color.red-25}",
+          "value": "{Global.red-25}",
           "type": "color",
           "description": "error-lighten"
         }
       },
       "bg-decorative": {
         "bg-deco": {
-          "value": "{color.orange-10}",
+          "value": "{Global.orange-10}",
           "type": "color"
         },
         "bg-deco-darken": {
-          "value": "{color.orange-25}",
+          "value": "{Global.orange-25}",
           "type": "color"
         }
       }
     },
     "action": {
       "primary-accessible-75": {
-        "value": "{color.accessible-orange-75}",
+        "value": "{Global.accessible-orange-75}",
         "type": "color"
       },
       "primary-hover-accessible-100": {
-        "value": "{color.accessible-orange-100}",
+        "value": "{Global.accessible-orange-100}",
         "type": "color"
       },
       "action-primary": {
@@ -309,92 +309,92 @@
         "description": "Was FF694B. Changed to be accessible. Changeed back to brand ff694b based on product feedback May 11, 2023."
       },
       "action-primary-hover": {
-        "value": "{color.orange-100}",
+        "value": "{Global.orange-100}",
         "type": "color",
         "description": "Was primary-darken-25 and E65#43, changed to be orange-100 the same as pressed to be accessible"
       },
       "action-primary-pressed": {
-        "value": "{color.orange-100}",
+        "value": "{Global.orange-100}",
         "type": "color",
         "description": "primary-darken-50"
       },
       "action-secondary": {
-        "value": "{color.charcoal-100}",
+        "value": "{Global.charcoal-100}",
         "type": "color"
       },
       "action-secondary-hover": {
-        "value": "{color.charcoal-100}",
+        "value": "{Global.charcoal-100}",
         "type": "color",
         "description": "Temp Color - Not part of core\n\n"
       },
       "action-secondary-pressed": {
-        "value": "{color.charcoal-100}",
+        "value": "{Global.charcoal-100}",
         "type": "color",
         "description": "\n"
       },
       "action-focused": {
-        "value": "{color.charcoal-100}",
+        "value": "{Global.charcoal-100}",
         "type": "color",
         "description": "Was 1061CC (link blue). Now it is charcoal with an increased stroke width. \n"
       },
       "action-focused-reversed": {
-        "value": "{color.white}",
+        "value": "{Global.white}",
         "type": "color"
       },
       "action-critical": {
-        "value": "{color.red-100}",
+        "value": "{Global.red-100}",
         "type": "color"
       },
       "action-disabled": {
-        "value": "{color.charcoal-50}",
+        "value": "{Global.charcoal-50}",
         "type": "color"
       },
       "link": {
         "link": {
-          "value": "{color.blue-50}",
+          "value": "{Global.blue-50}",
           "type": "color"
         },
         "link-hover": {
-          "value": "{color.blue-100}",
+          "value": "{Global.blue-100}",
           "type": "color"
         },
         "link-pressed": {
-          "value": "{color.blue-100}",
+          "value": "{Global.blue-100}",
           "type": "color"
         },
         "link-visited": {
-          "value": "{color.blue-100}",
+          "value": "{Global.blue-100}",
           "type": "color"
         }
       }
     },
     "brand": {
       "primary": {
-        "value": "{color.orange-50}",
+        "value": "{Global.orange-50}",
         "type": "color",
         "description": "primary-100; Button, Note"
       },
       "secondary": {
-        "value": "{color.charcoal-100}",
+        "value": "{Global.charcoal-100}",
         "type": "color",
         "description": "secondary-100; Charcoal is the secondary color"
       }
     },
     "status": {
       "info": {
-        "value": "{color.blue-100}",
+        "value": "{Global.blue-100}",
         "type": "color"
       },
       "positive": {
-        "value": "{color.green-100}",
+        "value": "{Global.green-100}",
         "type": "color"
       },
       "caution": {
-        "value": "{color.yellow-100}",
+        "value": "{Global.yellow-100}",
         "type": "color"
       },
       "critical": {
-        "value": "{color.red-100}",
+        "value": "{Global.red-100}",
         "type": "color"
       }
     }
